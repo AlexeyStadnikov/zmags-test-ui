@@ -1,0 +1,6 @@
+{
+  "storiesCount": 10,
+  "topStoriesUrl": "https://hacker-news.firebaseio.com/v0/topstories.json",
+  "storyUrl": "https://hacker-news.firebaseio.com/v0/item/{id}.json",
+  "userUrl": "https://hacker-news.firebaseio.com/v0/user/{id}.json"
+}
